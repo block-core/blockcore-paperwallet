@@ -1,7 +1,7 @@
 {
-  "name": "walletgenerator.net",
+  "name": "blockcore-paperwallet",
   "version": "3.3.0",
-  "description": "Open Source JavaScript Client-Side Bitcoin Wallet Generator",
+  "description": "Open Source JavaScript Client-Side Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MichaelMure/WalletGenerator.net.git"
+    "url": "git://github.com/block-core/blockcore-paperwallet.git"
   },
   "keywords": [
-    "bitcoin address wallet generator"
+    "blockcore bitcoin address wallet generator"
   ],
-  "author": "MichaelMure",
+  "author": "Blockcore",
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/MichaelMure/WalletGenerator.net/issues"
+    "url": "https://github.com/block-core/blockcore-paperwallet/issues"
   }
 }
